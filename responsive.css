@@ -23,6 +23,20 @@
         color: #ddd;
     }
 
+    .social_links {
+        margin-top: -60px;
+    }
+
+    .social_links li {
+        margin-top: 20px;
+        border: 1px solid rgb(18, 18, 19, 0);
+    }
+    
+    .social_links li:hover {
+        background-color: #fff;
+        border-radius: 50%;
+    }
+
     /* ABOUT */
     #page2 h6 {
         line-height: 1.5;
@@ -35,6 +49,12 @@
     }
 
     /* SKILL */
+
+    .service_wrapper {
+        margin-top: -40px;
+        padding-top: 0px;
+    }
+
     #service .container h6 {
         font-size: 1.2m;
     }

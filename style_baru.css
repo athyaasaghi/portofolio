@@ -162,9 +162,14 @@ figcaption p {
     color: rgb(255, 255, 255);
 }
 
+.social_links li {
+    border: 1px solid rgb(18, 18, 19);
+    border-radius: 50%;
+}
+
 .social_links li a:hover {
     background-color: #fff;
-    border-radius: 0%;
+    border-radius: 50%;
 }
 
 /* TENTANG */
@@ -200,3 +205,4 @@ body {
     font-size: 24px;
     color: #ddd;
 }
+
