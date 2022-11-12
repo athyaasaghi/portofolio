@@ -79,7 +79,7 @@ figure.effect-duke {
 
 
 .grid {
-    margin-left: 22%;
+    margin-left: 15%;
 }
 
 figcaption p {
@@ -100,10 +100,20 @@ figcaption p {
 
 #service .container h6 {
     font-size: 1.5em;
+    color:rgb(85, 76, 76);
+}
+
+#service .container h2 {
+    color: rgb(58, 58, 100);
+}
+
+.service_block h3 {
+    color: rgb(58, 58, 100);
 }
 
 .service_block p {
     font-size: 1.2em;
+    color:rgb(85, 76, 76);
 }
 
 /* HADER */
@@ -126,6 +136,11 @@ figcaption p {
     font-size: 30px;
     color: #ddd;
 }
+
+.top_left_cont {
+    padding-top: 230px;
+}
+
 
 .fa-twitter {
     color: rgb(95, 121, 238);
@@ -156,6 +171,10 @@ figcaption p {
 #page2 h6 {
     line-height: 1.5;
     font-size: 1.5em;
+}
+
+#page2 h2 {
+    color: rgb(58, 58, 100)
 }
 
 #page2 {
