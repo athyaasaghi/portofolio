@@ -195,3 +195,8 @@ body {
     margin: 0px;
     padding: 0px;
 }
+
+.top_left_cont p {
+    font-size: 24px;
+    color: #ddd;
+}
