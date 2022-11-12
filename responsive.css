@@ -1,0 +1,61 @@
+@media screen and (max-width: 576px){
+    #header_wrapper {
+        background-color: rgb(206, 206, 206);
+    }
+
+    #mainNav li a {
+        color: #eee ;
+    }
+
+    .navbar-inverse {
+        background-color: rgb(206, 206, 206);
+        margin-top: 10px;
+        width:100%;
+    }
+
+    /* HERO */
+    .top_left_cont {
+        padding-top: 150px;
+    }
+
+    .top_left_cont p {
+        font-size: 14px;
+        color: #ddd;
+    }
+
+    /* ABOUT */
+    #page2 h6 {
+        line-height: 1.5;
+        font-size: 1.2em;
+    }
+
+    
+    #page2 {
+        width: 100%;
+    }
+
+    /* SKILL */
+    #service .container h6 {
+        font-size: 1.2m;
+    }
+
+    /* PROJECT */
+
+    #gallery {
+        padding-top: 60px;
+        padding-bottom: 60px;
+        display: grid;
+        justify-content: center;
+      }
+    
+   .grid {
+        margin-left: 10%;
+    }
+    
+    figcaption p {
+        font-size: 20px;
+        width: 90%;
+    }
+}
+
+
